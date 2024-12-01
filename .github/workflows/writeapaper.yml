@@ -67,4 +67,4 @@ jobs:
       - name: delete
         uses: geekyeggo/delete-artifact@v4
         with:
-          name: '*.pdf'
+          name: '*1.pdf'
