@@ -2,7 +2,7 @@
 # The latest compiled pdf is made available at e.g.
 # https://github.com/dgerosa/reponame/blob/build/filename.pdf
 # Davide Gerosa (2021) https://github.com/dgerosa
- 
+  
 name: writeapaper
 on: [push]
 jobs:
